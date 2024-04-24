@@ -11,6 +11,7 @@
 🚀 My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
 
 📫 Let's connect! Reach out for collaboration opportunities, project ideas, or to discuss the latest tech trends.
+<br />
 
 ---
 
