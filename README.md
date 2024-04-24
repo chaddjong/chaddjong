@@ -2,7 +2,7 @@
 
 ![Rick and Morty](https://github.com/chaddjong/chaddjong/assets/116330103/822360f7-c433-48ed-b9f0-fbb9fb4edd71)
 
-<img align="right" alt="banner" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/822360f7-c433-48ed-b9f0-fbb9fb4edd71">
+<img align="center" alt="banner" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/822360f7-c433-48ed-b9f0-fbb9fb4edd71">
 
 <!--
 **chaddjong/chaddjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
