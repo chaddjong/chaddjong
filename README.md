@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="position: relative;">
-  <img src="https://github.com/chaddjong/chaddjong/assets/116330103/3c9a0180-a5cf-4d85-84c3-50169923ac8e" alt="Rick and Morty" style="position: absolute; top: 50px; left: 50px; width: 200px;">
+  <img src="https://github.com/chaddjong/chaddjong/assets/116330103/3c9a0180-a5cf-4d85-84c3-50169923ac8e" alt="Rick and Morty" style="position: absolute; top: 50px; left: 500px; width: 200px;">
 </div>
 
 <!--
