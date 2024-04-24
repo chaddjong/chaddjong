@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Galaxy Far Far Away, Pixel Jeff](https://github.com/chaddjong/chaddjong/assets/116330103/35b0263a-c1be-4fe4-9dfb-a0b9b8e22576)
+
 <!--
 **chaddjong/chaddjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
