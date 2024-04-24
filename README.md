@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div style="position: relative;">
-  <img src="https://github.com/chaddjong/chaddjong/assets/116330103/3c9a0180-a5cf-4d85-84c3-50169923ac8e" alt="Rick and Morty" style="position: absolute; top: 50px; left: 500px; width: 200px;">
-</div>
+![Rick and Morty](https://github.com/chaddjong/chaddjong/assets/116330103/822360f7-c433-48ed-b9f0-fbb9fb4edd71)
 
 <!--
 **chaddjong/chaddjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
