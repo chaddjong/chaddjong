@@ -4,7 +4,7 @@
 
 **`Digital Craftsman | Web Developer | Backend Engineer | Startup Founder`**
 
-<img align="right" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Millenium Falcon">
+<img style="margin-left: 20px" align="right" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Millenium Falcon">
 
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering.
 
