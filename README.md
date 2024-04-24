@@ -1,8 +1,19 @@
-### Hi there 👋
+# ⚜️ Richard Jong
 
-![Galaxy Far Far Away, Pixel Jeff](https://github.com/chaddjong/chaddjong/assets/116330103/d76e9ffa-0568-403b-a634-3c1446c648ba)
+<!-- ![Galaxy Far Far Away, Pixel Jeff](https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf) -->
 
-<img align="center" width="1200" src="https://github.com/chaddjong/chaddjong/assets/116330103/d76e9ffa-0568-403b-a634-3c1446c648ba">
+**`Digital Craftsman | Web Developer | Backend Engineer | Startup Founder`**
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td>
+      <p>👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering</p>
+    </td>
+    <td>
+      <img align="right" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Rick and Morty">
+    </td>
+  </tr>
+</table>
 
 <!-- ![Rick and Morty](https://github.com/chaddjong/chaddjong/assets/116330103/822360f7-c433-48ed-b9f0-fbb9fb4edd71) -->
 
