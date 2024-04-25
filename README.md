@@ -9,7 +9,7 @@
 
 <!-- ![Galaxy Far Far Away, Pixel Jeff](https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf) -->
 
-**`Digital Craftsman | Web Developer | Backend Engineer | Startup Founder`**
+**`Digital Craftsman | Web Developer | Backend Developer | Startup Founder`**
 
 <img style="margin-left: 20px" align="right" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Millenium Falcon">
 
