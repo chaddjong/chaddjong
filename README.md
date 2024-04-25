@@ -1,4 +1,11 @@
-# ⚜️ Richard Jong
+<!-- # <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif"> Richard Jong -->
+# <img width="35" src="https://cdn3.emoji.gg/emojis/46910-na-crownowner.png"> Richard Jong
+
+<!-- [![MEAT](https://cdn3.emoji.gg/emojis/84541-meat.gif)](https://emoji.gg/emoji/84541-meat) -->
+
+<!-- [![NA_CrownOwner](https://cdn3.emoji.gg/emojis/46910-na-crownowner.png)](https://emoji.gg/emoji/46910-na-crownowner) -->
+
+<!-- [![NA_TrophyTop](https://cdn3.emoji.gg/emojis/39178-na-trophytop.png)](https://emoji.gg/emoji/39178-na-trophytop) -->
 
 <!-- ![Galaxy Far Far Away, Pixel Jeff](https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf) -->
 
