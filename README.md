@@ -16,12 +16,16 @@
 **`Digital Craftsman | Web Developer | Backend Developer | Startup Founder`**
 
 <br/>
-<!--
+
 <img style="margin-left: 20px" align="right" width="400" src="https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Millenium Falcon">
--->
+
 
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
-Let's connect! Reach out for collaboration opportunities, project ideas, or to discuss the latest tech trends.
+
+📫 Let's connect! Reach out for collaboration opportunities, project ideas, or to discuss the latest tech trends.
+
+<br>
+<br>
 
 ---
 
