@@ -36,7 +36,6 @@ Let's connect! Reach out for collaboration opportunities, project ideas, or to d
 
 <br>
 
-#
 
 ## 📊 Stats
 
