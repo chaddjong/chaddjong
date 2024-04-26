@@ -1,5 +1,5 @@
 <!-- # <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif"> Richard Jong -->
-# <img width="35" src="https://cdn3.emoji.gg/emojis/46910-na-crownowner.png"> Richard Jong
+# <img width="30" src="https://cdn3.emoji.gg/emojis/46910-na-crownowner.png"> Richard Jong
 
 <!-- [![MEAT](https://cdn3.emoji.gg/emojis/84541-meat.gif)](https://emoji.gg/emoji/84541-meat) -->
 
