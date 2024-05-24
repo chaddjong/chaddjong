@@ -15,7 +15,7 @@
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
 
 📫 Let's connect! Reach out for collaboration opportunities, project ideas, or to discuss the latest tech trends.
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:richardicad85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
