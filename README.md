@@ -5,14 +5,6 @@
   <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif">
   Richard Jong</h1>
 
-<!-- [![MEAT](https://cdn3.emoji.gg/emojis/84541-meat.gif)](https://emoji.gg/emoji/84541-meat) -->
-
-<!-- [![NA_CrownOwner](https://cdn3.emoji.gg/emojis/46910-na-crownowner.png)](https://emoji.gg/emoji/46910-na-crownowner) -->
-
-<!-- [![NA_TrophyTop](https://cdn3.emoji.gg/emojis/39178-na-trophytop.png)](https://emoji.gg/emoji/39178-na-trophytop) -->
-
-<!-- ![Galaxy Far Far Away, Pixel Jeff](https://github.com/chaddjong/chaddjong/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf) -->
-
 **`Digital Craftsman | Web Developer | Backend Developer | Startup Founder`**
 
 <br/>
@@ -23,7 +15,19 @@
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
 
 📫 Let's connect! Reach out for collaboration opportunities, project ideas, or to discuss the latest tech trends.
-
+<div align="center"> 
+  <a href="mailto:richardicad85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/richard-john-jong" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!--
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  -->
+</div>
 <br>
 <br>
 
