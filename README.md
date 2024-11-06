@@ -5,7 +5,7 @@
   <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif">
   Richard Jong</h1>
 
-**`Digital Craftsman | Web Developer | Backend Developer | Startup Founder`**
+**`Digital Craftsman | Web Developer | Backend Developer`**
 
 <br/>
 
